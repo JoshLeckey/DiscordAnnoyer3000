@@ -3,8 +3,8 @@ This bot targets a specific user and if that user says a banned word it deletes 
 good way to annoy someone if you make the bot look like their profile so it looks like they are saying something weird.
 
 #Requirements
-Install discord.js
-Insall Node.js
+\nInstall discord.js
+\nInsall Node.js
 
 #How to set up
 goto https://discord.com/developers/applications and create a new application
