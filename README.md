@@ -6,7 +6,7 @@ good way to annoy someone if you make the bot look like their profile so it look
 Install discord.js
 Insall Node.js
 
-#How to set up##
+#How to set up
 goto https://discord.com/developers/applications and create a new application
 under the appliation create a new bot
 copy the token of the bot and place it in the .env file
